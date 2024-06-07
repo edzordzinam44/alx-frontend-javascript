@@ -1,5 +1,3 @@
-// Modify the functions with const and let
-
 export function taskFirst() {
   const task = 'I prefer const where I can.';
   return task;
